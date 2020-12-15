@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:d="https://loading.io/stock/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="17 17 54.589806 52.330627"
+   width="54.589806"
+   height="52.330627"
+   version="1.1"
+   id="svg57">
+  <metadata
+     id="metadata63">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs61" />
+  <style
+     id="style2">
+      @keyframes breath-fa3438ce-5169-4afe-81e9-ca910dc630fb {
+        0% {
+          animation-timing-function: cubic-bezier(
+            0.9647,
+            0.2413,
+            -0.0705,
+            0.7911
+          );
+          transform: scale(0.9099999999999999);
+        }
+        51% {
+          animation-timing-function: cubic-bezier(
+            0.9226,
+            0.2631,
+            -0.0308,
+            0.7628
+          );
+          transform: scale(1.02994);
+        }
+        100% {
+          transform: scale(0.9099999999999999);
+        }
+      }
+    </style>
+  <g
+     class="ldl-scale"
+     id="g55"
+     transform="matrix(0.68236768,0,0,0.65412678,10.176334,10.458551)">
+    <g
+       class="ldl-ani"
+       id="g53">
+      <linearGradient
+         y2="79.426003"
+         x2="68.331001"
+         y1="31.426001"
+         x1="22.830999"
+         gradientUnits="userSpaceOnUse"
+         id="a">
+        <stop
+           stop-color="#a0c8d7"
+           offset="0"
+           style="stop-color: rgb(160, 200, 215); fill: rgb(0, 0, 0)"
+           id="stop4" />
+        <stop
+           stop-color="#76a4bd"
+           offset="1"
+           style="stop-color: rgb(118, 164, 189); fill: rgb(0, 0, 0)"
+           id="stop6" />
+      </linearGradient>
+      <g
+         class="ldl-layer"
+         id="g13">
+        <g
+           class="ldl-ani"
+           id="g11">
+          <path
+             fill="url(#a)"
+             d="m 47.962,10.051 c -20.276,1.006 -36.785,17.429 -37.9,37.699 -0.482,8.762 1.87,16.943 6.206,23.736 l -4.889,14.443 c -0.564,1.667 1.027,3.258 2.693,2.693 l 14.443,-4.889 c 6.793,4.336 14.974,6.688 23.736,6.206 C 72.521,88.824 88.944,72.315 89.95,52.039 91.125,28.338 71.662,8.874 47.962,10.051 Z"
+             id="path9"
+             style="fill:url(#a)" />
+        </g>
+      </g>
+      <g
+         class="ldl-layer"
+         id="g31">
+        <g
+           class="ldl-ani"
+           id="g29">
+          <g
+             id="g27">
+            <g
+               class="ldl-layer"
+               id="g19">
+              <g
+                 class="ldl-ani"
+                 id="g17">
+                <path
+                   fill="#fff"
+                   d="m 54.435,71.5 h -8.87 A 1.565,1.565 0 0 1 44,69.935 V 49.065 C 44,48.201 44.701,47.5 45.565,47.5 h 8.87 c 0.864,0 1.565,0.701 1.565,1.565 v 20.87 c 0,0.864 -0.701,1.565 -1.565,1.565 z"
+                   style="fill:#ffffff"
+                   id="path15" />
+              </g>
+            </g>
+            <g
+               class="ldl-layer"
+               id="g25">
+              <g
+                 class="ldl-ani"
+                 id="g23">
+                <path
+                   fill="#fff"
+                   d="M 50,28 A 7.25,7.25 0 0 0 50,42.5 7.25,7.25 0 0 0 50,28 Z"
+                   style="fill:#ffffff"
+                   id="path21" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         class="ldl-layer"
+         id="g37">
+        <g
+           class="ldl-ani"
+           id="g35">
+          <path
+             opacity="0.1"
+             d="m 77.639,21.103 c 0.011,0.603 0.04,1.201 0.04,1.808 0,27.323 -11.319,51.604 -28.865,67.069 1.135,0.033 2.28,0.022 3.437,-0.042 20.27,-1.115 36.693,-17.624 37.699,-37.9 0.603,-12.174 -4.247,-23.22 -12.311,-30.935 z"
+             style="fill:#000000"
+             id="path33" />
+        </g>
+      </g>
+      <g
+         class="ldl-layer"
+         id="g43">
+        <g
+           class="ldl-ani"
+           id="g41">
+          <path
+             stroke-miterlimit="10"
+             stroke-linejoin="round"
+             stroke-linecap="round"
+             stroke-width="3"
+             stroke="#fff"
+             fill="none"
+             d="m 17.676,38.688 a 41.09,41.09 0 0 0 -0.542,1.781"
+             style="stroke:#ffffff"
+             id="path39" />
+        </g>
+      </g>
+      <g
+         class="ldl-layer"
+         id="g49">
+        <g
+           class="ldl-ani"
+           id="g47">
+          <path
+             stroke-miterlimit="10"
+             stroke-linejoin="round"
+             stroke-linecap="round"
+             stroke-width="3"
+             stroke="#fff"
+             fill="none"
+             d="m 29.237,22.583 c -3.656,2.599 -6.62,5.91 -8.857,9.908"
+             style="stroke:#ffffff"
+             id="path45" />
+        </g>
+      </g>
+      <metadata
+         id="metadata51">
+        <d:name>message</d:name>
+        <d:tags>message,sns,msg,texting,information,communication,mention,hint,notify</d:tags>
+        <d:license>by</d:license>
+        <d:slug>hcp9qw</d:slug>
+      </metadata>
+    </g>
+  </g>
+</svg>
